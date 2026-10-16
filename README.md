@@ -1,6 +1,9 @@
 # 🚕 STREETLINE
-My first project: a small top-down driving game made in a single HTML file.
 
+My first game! A small top-down driving game made in a single HTML file.
+Drive around a city, deliver to the red marker, collect coins, and escape the police.
+
+### ▶️ [Play it live](https://harshjawale15.github.io/streetline/)
 ### ▶️ [Play it live](https://harshjawale15.github.io/streetline/)
 
 <!-- Add a screenshot or GIF here:
