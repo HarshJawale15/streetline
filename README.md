@@ -1,7 +1,6 @@
 # 🚕 STREETLINE
 
-**A GTA-style top-down open-city game in a single HTML file.**
-Steal a car, deliver to the red marker, grab coins, and outrun the police, all in your browser with zero installs.
+A top-down open-city driving game in a single HTML file. Steal a car, deliver to the red marker, grab coins, and outrun the police, all in your browser with zero installs.
 
 ### ▶️ [Play it live](https://harshjawale15.github.io/streetline/)
 
